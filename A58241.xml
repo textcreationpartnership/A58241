@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for passing a general act for reducing the forfeitures, humbly offered by the persons concerned</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58241</idno>
+            <idno type="STC">Wing R498</idno>
+            <idno type="STC">ESTC R6008</idno>
+            <idno type="EEBO-CITATION">12798444</idno>
+            <idno type="OCLC">ocm 12798444</idno>
+            <idno type="VID">94021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94021)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 776:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for passing a general act for reducing the forfeitures, humbly offered by the persons concerned</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>An argument for the relief of persons penalized for political and religious activity during the reigns of Charles II and James II.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters --  England.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:94021:1"/>
+            <head>
+               <hi>REASONS</hi> For Paſſing a General ACT for Reducing the Forfeitures, humbly offered by the Perſons Concerned.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He perſons Forfeited, with the Heirs of ſuch as are Decea<g ref="char:EOLhyphen"/>ſed and were Forfeited during the two laſt Reigns, ſpecially ſince the firſt of <hi>January</hi> 1665. Do humbly crave, that a general act may be paſt, Reſcinding their Forfeitures for the Reaſons following,
+<hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Becauſe it is evident by His Majeſties Declarati<g ref="char:EOLhyphen"/>on, while Prince of
+<hi>Orange</hi> for the Kingdom of <hi>Scotland:</hi> That the Oppreſſions, and violent Perſecutions, which theſe perſons ſuffered, as well after as before their Fofei<g ref="char:EOLhyphen"/>tures, are there ſet down amongſt the principal Motives that induced His Majeſty to undertake for the Relief of this Kingdom: And that his ſaid Undertaking was accounted by all good men no leſs juſt and Generous, then its ſucceſs was Happy and Glorious.</p>
+            <p n="2">
+               <hi>2ly.</hi> Becauſe it is no leſs manifeſt, that the greater part of the Articles of the Declaration of the Eſtates againſt King <hi>James;</hi> ſuch as the impoſing of Oaths contrary to Law, the Op<g ref="char:EOLhyphen"/>preſſion of a ſtanding Army in time of Peace: The impoſing of Exorbitant Fines, the Im<g ref="char:EOLhyphen"/>priſoning perſons without expreſſing the Reaſon: The imploying the Officers of the Army as Judges with their Summar Executions; and the like, were but continuations of what was begun in the preceeding Reign: And that the Claim of Right adding thereto many more parti<g ref="char:EOLhyphen"/>culars chiefly aſcribable to that Reign, ſuch as the forcing men to Depone in capital Crimes againſt themſelves; The abuſe of Torture, the ſending of an Army upon any part of the Kingdom in an Hoſtile manner in time of Peace. The Charging the Leidges with Lawbor<g ref="char:EOLhyphen"/>rows at the Kings Inſtance: The Impoſing of Bonds without Authority of Parliament. The putting of Garriſons in private mens Houſes. The Fining Husbands for their Wives. The Impriſoning and Proſecution of perſons for Petitioning the King; doth plainly hold forth, that both the Reigns were Arbitrary, and Oppreſſive: So that to declare King <hi>James</hi> to have Forfeit the Right to the Crown for the above-mentioned Cauſes, and all other Particulars above ſet down, to be contrary to Law. And yet not to reſtore the perſons who ſuffered thereby; and the ſadeſt part of whoſe Sufferings it was to be made Mad by the ſaid Oppreſ<g ref="char:EOLhyphen"/>ſions, and forced to the Extremity of riſing in Arms, would be very inconſequent.</p>
+            <p n="3">
+               <hi>3dly.</hi> Becauſe the Relief of thoſe thus Oppreſſed, and thereby forced to riſe in Arms, be<g ref="char:EOLhyphen"/>ing really intended: To think to effectuate the ſame by Reductions upon Specialities, is nei<g ref="char:EOLhyphen"/>ther Adviſable nor Practicable, as may eaſily appear by what follows.</p>
+            <p n="4">
+               <hi>4ly.</hi> Becauſe the perſons Forfeited, and now expecting to be Reſtored, are above five hundred: And all the Specialities that can be found by the greateſt ſtretch of the moſt ſubtile Invention, will not afford Relief to Fifty of the ſaid five hundred: So that above four hun<g ref="char:EOLhyphen"/>dred and fifty, and theſe of the Pooreſt and moſt Diſtreſſed, muſt ſtill remain in Miſery. Beſides, that by the making and allowing of the foreſaid ſtretches to find out Informalities. The Rules, Forms and Practique of the Court of Juſticiary, are like to be rendred uncertain and doubtful; which is of far more dangerous Conſequence, then any Inconvenience that can be juſtly apprehended from a general Act.</p>
+            <p n="5">
+               <hi>5ly.</hi> Becauſe when the Deſign is known and manifeſt, <hi>viz.</hi> To Relieve and Reſtore the foreſaids perſons Forfeited, to go about to do the ſame under the colour of Informalities, which can reach but a few; and the greater part of theſe few very lamely and conſtrainedly; is
+<pb n="2" facs="tcp:94021:2"/>but to expoſe, both the Juſtice and Prudence of the Kingdom, unleſs at the ſame time the Righteouſneſs of theſe Reductions be by a general Act fairly owned and declared.</p>
+            <p n="6">
+               <hi>6ly.</hi> Becauſe it is well known that the firſt appearance of His Majeſty when Prince of <hi>Orange</hi> for our Relief and Deliverance, was Light and Joy, and as Life from the Dead to all theſe Afflicted perſons: And that in effect they ſtill are and will perpetually prove the perſons moſt True and Faithful to His Majeſty. Whereas their former Perſecutors did then ſink into Grief and Diſpondency, ſo that it cannot be thought that any true Friend to King <hi>William</hi> will now offer to oppoſe theſe poor Mens reſtitution.</p>
+            <p>But the great and common Objection, is, to reſtore perſons who were Forfeited for riſing in Arms upon neceſſary ſtanding Laws, and clear and evident Probation, were to lay down the worſt of preparatives to encourage Rebellions for the future.</p>
+            <p>To which it is anſwered, <hi>Firſt,</hi> That it is earneſtly wiſhed that the perſons that make this Objection may be well conſidered, whether they be Byaſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by particular Intereſt, or truly, and at the bottom approvers of the late Proceedings againſt King <hi>James.</hi>
+            </p>
+            <p n="2">
+               <hi>2ly.</hi> It is known Rule, That in Criminals, as to either Condemnations, or Abſolutions Precedents and Examples are of no force.</p>
+            <p n="3">
+               <hi>3dly.</hi> That whatever the King and Parliament ſhall now do by their Soveraign power, up<g ref="char:EOLhyphen"/>on conſideration of particular Circumſtances, as to things, can never in Law or Senſe be made preparative to hinder the Execution of ſtanding Laws for hereafter: It being moſt certain, that when ever theſe Laws ſhall be tranſgreſſed, or contraveened, the alledging of things for a preparative, found by King and Parliament to be diſtinguiſhed by their Circumſtances, would be of no force.</p>
+            <p n="4">
+               <hi>4ly.</hi> As theſe miſerable Attempts at <hi>Pentland</hi> and
+<hi>Bothwell-Bridge</hi> were contrary to ſtand<g ref="char:EOLhyphen"/>ing Law, ſo it is undenyable, that all the leſſer attempts made through out the Kingdom after the Prince of <hi>Orange</hi> his Arrival into <hi>England,</hi> againſt King <hi>James</hi> before the meeting of the Eſtates; do fall under the ſame conſtruction: And that all the difference, as to this point that can be made betwixt them, is that (Bleſſed be God) theſe had the far better ſucceſs.</p>
+            <p n="5">
+               <hi>5ly.</hi> As in <hi>England</hi> they needed not a general Act, ſo we ſee that the late Forfeitures have been Reverſed and Reſcinded upon ſuch ſlender Reaſons, that if there had been need of a gene<g ref="char:EOLhyphen"/>ral Act, their Parliament had never ſtood to have paſt it.</p>
+            <p n="6">
+               <hi>6ly.</hi> Can any man alledge, that the Reſcinding of Forfeitures for theſe former Inſurrections, can be a bad preparative to encourage Inſurrections for the future: But at the ſame time he muſt think, that the late great Revolution, may likewayes be drawn into a far more miſchiev<g ref="char:EOLhyphen"/>ous conſequence: A thought, which certainly all honeſt Men muſt abhor.</p>
+            <p>And therefore ſeing that the Oppreſſions of the Forfeited perſons are clearly acknowledged by the Claim of Right; their Relief more then inſinuate by His Majeſties Declaration, while Prince of <hi>Orange:</hi> Their Redreſs expreſly aſſured by the Meeting of the Eſtates: Their Reſtitution plainly Aſſented to by His Majeſties printed Inſtructions; the manner of their Re<g ref="char:EOLhyphen"/>lief by Specialities evidently impracticable and deluſive: And that the Forfeited perſons them<g ref="char:EOLhyphen"/>ſelves cannot fail to be amongſt the trueſt Friends to King <hi>William.</hi> What reaſon can be ad<g ref="char:EOLhyphen"/>duced to hinder their Reſtitution by a general Act; ſpecially ſeeing, that the alone publiſhing of this Repreſentation, may and will undoubtedly cut off the ill conſequence of a ſuppoſed pre<g ref="char:EOLhyphen"/>parative, to the end of the World.</p>
+            <p>But it is farther objected, That as to many of theſe Forfeitures, there are Donators; and where Donators are, Forfeitures cannot be Reſcinded, unleſs the Donators be particularly called, which at this time hath been omitted.</p>
+            <p>To which it is anſwered. <hi>Firſt,</hi> That if there were any weight in this Objection, as there is none, It could only be Objected with any probability againſt the Reductions of particular Forfeitures. But to ſay, That when the King and Parliament proceeds by vertue of their Soveraign and Legiſlative Power, to Reſcind Forfeitures in general: And that in Proſecution of the States Claim of Right, and after their having Forfeited the late King <hi>James</hi> for the Cauſes, and in the manner, we have ſeen, is neither reaſonable nor tollerable.</p>
+            <pb n="3" facs="tcp:94021:2"/>
+            <p n="2">
+               <hi>2dly.</hi> It is denyed that Donators need be called to Reductions of Forfeitures in Parliament, <hi>per modum justitiae,</hi> Becauſe in effect, they have no proper Intereſt, in as much as all their Intereſt is only founded in the Gift, which is conſequential to the Sentence of Forfeiture; and muſt of neceſſity ſtand or fall as the Sentence is found to be juſt or unjuſt: And the Gift being a free Gift of His Majeſty, and the King and Parliament together, reviewing the Sen<g ref="char:EOLhyphen"/>tence, whether juſt or unjuſt; and His Majeſties Advocate, the proper Contradictor, being alwayes preſent at ſuch Reductions, to affirm that the Donators muſt be called to a cognition of this nature to be made by King and Parliament, is evidently unneceſſary.</p>
+            <p n="3">3 The proper caſe requiring Donators to be called is when either their gifts are queſtioned; or there falls in a competition about them; but to think that where the gift is free and gratui<g ref="char:EOLhyphen"/>tous, as the Kings gifts are: That the King, the Author of the gift, with the Parliament, having the Soveraigne Authority of the Kingdom: May not review the ſentences upon which theſe gifts proceed: Is obviouſly unjuſt and preſumptuous.</p>
+            <p n="4">4. Let ſearch be made into the records, and it will be found that this point was never before Controverted, for albeit that it may be found that ſome times a Donator (and it may be two cannot be found) hath been called <hi>Ex ſuperabundanti.</hi> And it is like for the particular re<g ref="char:EOLhyphen"/>peating and ſtating of his intromiſſions. Yet generally, it will appeare that to reductions <hi>per modum Juſtitiae.</hi> Donators were not called: Nor is their any ground here to diſtinguiſh betwixt Reductions upon the head of irrelivancy, and reductions for want of due probation; Seing that on the part of theſe that gave ſentence, both are alike unjuſt. And if it be alledged, that the Donators in the ſecond caſe ſhould be called: Becauſe he may ſupply the probation It may be as juſtly affirmed, that he may be called in the firſt, becauſe he may add to the ac<g ref="char:EOLhyphen"/>cuſation; which yet is by all denyed. But the true reaſon of the Parliaments practice in this Caſe, Is becauſe that Donators have only gratuitous Gifts: And as the King is their Author, ſo the King and Parliament have the Soveraigne Power, and only proper intereſts to Re-examine all ſuch ſentences, They being only pronounced at the Kings Advocats inſtance, and the Authority of the Parliament ſupplying all Defects.</p>
+            <p>But 5. To put this queſtion out of doubt, the records of Parliament do afford plain and almoſt paralel inſtances to the Caſe in hand, that our Parliaments have reſcinded forfeitures without calling the Donators, and that by a general Act, where the Caſe appears to be rather leſs Favourable, as may be clearly ſeen in the inſtance of that general reduction of Forfeitures that was in the Yeare 1585. And in many other Inſtances extent in the records of Parliament.</p>
+            <p>There is another queſtion here moved whether Tranſactions, and Compoſitions, made by the Perſons Forfeited, or their Friends for them, with their Donators, can be declared void and the ſums payed, or agreed to be payed in compoſition, ordained to be reſtored, and ſome incline to think that this cannot be in reſpect that here is a Tranſaction which is an expreſs bargain on the account of the Hazard, and the Faith of ſuch Tranſactions is ſo eſtabliſhed by Law, that they cannot, be called in queſtion, But on the other Hand it is to be conſidered, That the difference of Tranſactions from other Bargains. Is that by a Tranſaction ſome thing doubtful and litigious betwixt two parties is agreed, and the pretence of the one party Remitted or Diſ<g ref="char:EOLhyphen"/>charged for ſome conſideration to be given by the other, which being a method and expedient to terminate, and put an end to pleas, the Law has been more careful to preſerve and eſtabliſh ſuch agreements. But by this it alſo plainly appears that the Bargains and Compoſitions made with Donators, were in effect no Transactions. But plaine Bargains of purchaſs, for there being neither <hi>Res,</hi> not Lis <hi>Dubia</hi> in the Caſe, both the ſentence and gift of Forfeiture being cl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> according to the Law for the time, It is evident that the Bargains that the Donators made, were direct bargains of Sale, for as high a price as they could get. And that they were alike ready, to make over their gifts, either to the Forfeited Perſons, or to Strangers which of them did bid moſt. So that if they ſold theſe Eſtates within the Worth, It was not on the account of any preten<g ref="char:EOLhyphen"/>ſion the buyer might have either to the Eſtate or the price of it, But meerly from the common <hi>odium,</hi> and uncertainty of all Forfeitures, which made them content to take what they could get from any hand whatſomever. <hi>2ly</hi> This may be yet farther cleared if the caſe be put of the Do<g ref="char:EOLhyphen"/>nators
+<pb n="4" facs="tcp:94021:3"/>ſelling and diſponing upon a Forfeit Eſtate to a ſtranger. In which caſe it cannot be queſ<g ref="char:EOLhyphen"/>tioned but if the Forfeiture came to be reduced the Perſon Forfeited would be reponed to his Eſtate, and the ſtranger purchaſer have recourſe upon his warrandice againſt the Donator: How then the forfeit Perſon or his Friends purchaſs ſhould be thought in this point to differ from the purchaſs of a ſtranger is evidently inconceivable. Its granted if the Bargain had been expreſ<g ref="char:EOLhyphen"/>ly made with this Condition that no eventor revolution tho' reducing the Forfeiture ſhould give ground of repetition, that then condition ſhould be kept, the Bargain in this caſe being a plain Bargain of hazards as of a <hi>Jactus retis,</hi> or the like. But then what compoſition in <hi>Scotland</hi> whether with friend or ſtranger was ſo concluded. <hi>2ly</hi> Suppoſe a Bargain had been ſo made yet it moſt be fairly and honeſtly made without Fear, Force, or Concuſſion, which Leads to a third Argument <hi>viz.</hi>
+            </p>
+            <p n="3">3. <hi>Eſto,</hi> That the compoſitions for Forfeitures had been made upon theſe expreſs terms (as yet we know none in <hi>Scotland</hi> were) that the parties Forfeited ſhould not repeate their money tho' the Forfeiture ſhould come to be reduced, yet even in this caſe if this Bargaine was agried to out of extreme neceſſity, The party Forfeited having no other remedy to prevent the ſtar<g ref="char:EOLhyphen"/>ving and Ruining of himſelfe and his Family, can any rational man deny but that this extremi<g ref="char:EOLhyphen"/>ty going over by a happy change of times, the Perſon who was thereby forced ſhould be releived of his Bargain, and reponed againſt it. But ſo it is that this is directly our preſent caſe, It being undenyable that the forfeit Perſons or their Friends who of late componed for their Eſtates with Donators did doe it meetly for preventing the utter Ruine of themſelves, their Families and Creditors, For being preſſed with the ſeverity of a Forfeiture and rigid <hi>Donator</hi> that left them nothing, what ſtronger Fear, Force, and Concuſion could men be under, ſo that if Law reſtore againſt Bargains made throw fear and Force, as we know it doeth, cer<g ref="char:EOLhyphen"/>tainly Reſtitution in the caſe in hand is the moſt Juſt that ever was heared of, ſpecially if it be conſidered that this Reſtitution is now demanded from King and Parliament, whoſe Soveraign power may and ought in equity to grant it tho' in the ſtrick Law, it were more doubtful as in<g ref="char:EOLhyphen"/>deed it is not.</p>
+            <p n="4">4. Not to mention how at this time the whole Kingdom is moſt happily releived and Diſ<g ref="char:EOLhyphen"/>charged of Bonds and Subſcriptions, and even of Oaths. (which in Law are more binding than tranſactions) formerly impoſed tho' by a neceſſity far inferior to that whereby theſe com<g ref="char:EOLhyphen"/>poſitions were extorted, doe we not ſee how that by the Act Debitor and Creditor 1661. The Faith of private bonds was upon for leſs conſiderations altered and ſuperceeded, and even ex<g ref="char:EOLhyphen"/>preſs bargains concerning proper wodſets clearly innovat. and Renunciations upon agreement Diſcharged If then the Parliament did at that time think fit upon bare Reaſons of conveniency to make ſuch ſtretches upon private Bargains fairly concluded, can any Rational Man think that compoſitions ſo viſibly extorted upon ſuch unjuſt grrounds as the late Forfeitures were ſhould now be ſuſtained.</p>
+            <p n="5">5. Was it not upon this moſt juſt Conſideration, that his Majeſty in his printed Inſtructions allowes his conſent to be given to what the Parliament ſhould propoſe for reſtitution to be made of Fines, or Compoſitions for fines or Forfeitures, from thoſe who had the Benefite of them; ſo that indeed it may Juſtly be wondred, how that after the Oppreſſions we have ſee, and the force that men have been laid under to redeem their Eſtates, from them by giving often more then the half to ſuch as aſſiſted to ſpoile them, any ſhould have the confidence either to call ſuch compoſitions legal tranſactions, or to plead that they ought ſtill to be regarded as binding, ſpecially after that his
+<hi>Majeſty</hi> hath ſo clearly declared himſelfe in this point.</p>
+            <p>But <hi>6ly</hi> And laſtly and for ſuperabundance, it is certain that in many Caſes the Donators did compound or ſell the Eſtats Forfeited without any conſent of the Party Forfeited, And farther it can be made appear in ſome Caſes, that men did alwayes refuſe to conſent to the Bar<g ref="char:EOLhyphen"/>gain, ſo that to alledge a tranſaction in theſe Caſes, to bar them or their Friends from Repetition were moſt abſur'd.</p>
+            <p>In Reſpect whereof the general Act ought to paſs as it is conceived, and unanimouſly voted by the Committee of <hi>Parliament.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
